@@ -36,7 +36,7 @@ function Cma() {
             ["Career Advancement:", "Prepare for opportunities in corporate finance, financial planning and analysis, management accounting and business consulting."],
             ["Strategic Business Skills:", "Learn to analyse financial information, evaluate business performance and support management decisions."],
             ["Flexible Preparation:", "Prepare for the two examination parts in either order while balancing your academic or professional commitments."],
-          ].map(([t, b]) => (
+          ].map(([t = "", b = ""]) => (
             <Card key={t} className="card-lift"><List items={[{ t, b }]} /></Card>
           ))}
         </div>
