@@ -10,33 +10,63 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as AboutRouteImport } from './routes/about'
+import { Route as AboutfintechRouteImport } from './routes/aboutfintech'
+import { Route as LandingpageCopy1RouteImport } from './routes/landingpage-copy1'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AboutRoute = AboutRouteImport.update({
+  id: '/about',
+  path: '/about',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AboutfintechRoute = AboutfintechRouteImport.update({
+  id: '/aboutfintech',
+  path: '/aboutfintech',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LandingpageCopy1Route = LandingpageCopy1RouteImport.update({
+  id: '/landingpage-copy1',
+  path: '/landingpage-copy1',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/about': typeof AboutRoute
+  '/aboutfintech': typeof AboutfintechRoute
+  '/landingpage-copy1': typeof LandingpageCopy1Route
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/about': typeof AboutRoute
+  '/aboutfintech': typeof AboutfintechRoute
+  '/landingpage-copy1': typeof LandingpageCopy1Route
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/about': typeof AboutRoute
+  '/aboutfintech': typeof AboutfintechRoute
+  '/landingpage-copy1': typeof LandingpageCopy1Route
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths: '/' | '/about' | '/aboutfintech' | '/landingpage-copy1'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to: '/' | '/about' | '/aboutfintech' | '/landingpage-copy1'
+  id: '__root__' | '/' | '/about' | '/aboutfintech' | '/landingpage-copy1'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  AboutRoute: typeof AboutRoute
+  AboutfintechRoute: typeof AboutfintechRoute
+  LandingpageCopy1Route: typeof LandingpageCopy1Route
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +78,35 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/about': {
+      id: '/about'
+      path: '/about'
+      fullPath: '/about'
+      preLoaderRoute: typeof AboutRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/aboutfintech': {
+      id: '/aboutfintech'
+      path: '/aboutfintech'
+      fullPath: '/aboutfintech'
+      preLoaderRoute: typeof AboutfintechRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/landingpage-copy1': {
+      id: '/landingpage-copy1'
+      path: '/landingpage-copy1'
+      fullPath: '/landingpage-copy1'
+      preLoaderRoute: typeof LandingpageCopy1RouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  AboutRoute: AboutRoute,
+  AboutfintechRoute: AboutfintechRoute,
+  LandingpageCopy1Route: LandingpageCopy1Route,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
