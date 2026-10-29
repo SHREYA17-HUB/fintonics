@@ -12,6 +12,9 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AboutRouteImport } from './routes/about'
 import { Route as AboutfintechRouteImport } from './routes/aboutfintech'
+import { Route as AccaRouteImport } from './routes/acca'
+import { Route as AiAndMlRouteImport } from './routes/ai-and-ml'
+import { Route as CsRouteImport } from './routes/cs'
 import { Route as LandingpageCopy1RouteImport } from './routes/landingpage-copy1'
 
 const IndexRoute = IndexRouteImport.update({
@@ -29,6 +32,21 @@ const AboutfintechRoute = AboutfintechRouteImport.update({
   path: '/aboutfintech',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AccaRoute = AccaRouteImport.update({
+  id: '/acca',
+  path: '/acca',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AiAndMlRoute = AiAndMlRouteImport.update({
+  id: '/ai-and-ml',
+  path: '/ai-and-ml',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CsRoute = CsRouteImport.update({
+  id: '/cs',
+  path: '/cs',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const LandingpageCopy1Route = LandingpageCopy1RouteImport.update({
   id: '/landingpage-copy1',
   path: '/landingpage-copy1',
@@ -39,12 +57,18 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/aboutfintech': typeof AboutfintechRoute
+  '/acca': typeof AccaRoute
+  '/ai-and-ml': typeof AiAndMlRoute
+  '/cs': typeof CsRoute
   '/landingpage-copy1': typeof LandingpageCopy1Route
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/aboutfintech': typeof AboutfintechRoute
+  '/acca': typeof AccaRoute
+  '/ai-and-ml': typeof AiAndMlRoute
+  '/cs': typeof CsRoute
   '/landingpage-copy1': typeof LandingpageCopy1Route
 }
 export interface FileRoutesById {
@@ -52,20 +76,48 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/aboutfintech': typeof AboutfintechRoute
+  '/acca': typeof AccaRoute
+  '/ai-and-ml': typeof AiAndMlRoute
+  '/cs': typeof CsRoute
   '/landingpage-copy1': typeof LandingpageCopy1Route
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/about' | '/aboutfintech' | '/landingpage-copy1'
+  fullPaths:
+    | '/'
+    | '/about'
+    | '/aboutfintech'
+    | '/acca'
+    | '/ai-and-ml'
+    | '/cs'
+    | '/landingpage-copy1'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/about' | '/aboutfintech' | '/landingpage-copy1'
-  id: '__root__' | '/' | '/about' | '/aboutfintech' | '/landingpage-copy1'
+  to:
+    | '/'
+    | '/about'
+    | '/aboutfintech'
+    | '/acca'
+    | '/ai-and-ml'
+    | '/cs'
+    | '/landingpage-copy1'
+  id:
+    | '__root__'
+    | '/'
+    | '/about'
+    | '/aboutfintech'
+    | '/acca'
+    | '/ai-and-ml'
+    | '/cs'
+    | '/landingpage-copy1'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AboutRoute: typeof AboutRoute
   AboutfintechRoute: typeof AboutfintechRoute
+  AccaRoute: typeof AccaRoute
+  AiAndMlRoute: typeof AiAndMlRoute
+  CsRoute: typeof CsRoute
   LandingpageCopy1Route: typeof LandingpageCopy1Route
 }
 
@@ -92,6 +144,27 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AboutfintechRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/acca': {
+      id: '/acca'
+      path: '/acca'
+      fullPath: '/acca'
+      preLoaderRoute: typeof AccaRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/ai-and-ml': {
+      id: '/ai-and-ml'
+      path: '/ai-and-ml'
+      fullPath: '/ai-and-ml'
+      preLoaderRoute: typeof AiAndMlRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/cs': {
+      id: '/cs'
+      path: '/cs'
+      fullPath: '/cs'
+      preLoaderRoute: typeof CsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/landingpage-copy1': {
       id: '/landingpage-copy1'
       path: '/landingpage-copy1'
@@ -106,6 +179,9 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AboutRoute: AboutRoute,
   AboutfintechRoute: AboutfintechRoute,
+  AccaRoute: AccaRoute,
+  AiAndMlRoute: AiAndMlRoute,
+  CsRoute: CsRoute,
   LandingpageCopy1Route: LandingpageCopy1Route,
 }
 export const routeTree = rootRouteImport
