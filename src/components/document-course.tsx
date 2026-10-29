@@ -1,4 +1,5 @@
 import { Block, Reveal } from "@/components/site";
+import { CourseCover } from "@/components/course-cover";
 
 type Run = { text: string; bold: boolean; italic: boolean };
 type Paragraph = { kind: string; text: string; runs: Run[] };
@@ -42,15 +43,14 @@ function Content({ paragraphs }: { paragraphs: Paragraph[] }) {
   );
 }
 
-export function DocumentCourse({ course }: { course: CourseDocument }) {
+export function DocumentCourse({ course, image }: { course: CourseDocument; image: string }) {
   return (
     <>
+      <CourseCover title={course.title} subtitle={course.subtitle} image={image} />
       <section className="border-b bg-soft">
-        <div className="mx-auto max-w-5xl px-5 py-12 md:py-16">
+        <div className="mx-auto max-w-5xl px-5 py-10 md:py-12">
           <Reveal>
-            <h1 className="text-3xl font-bold leading-tight text-navy md:text-4xl">{course.title}</h1>
-            <h2 className="mt-5 text-xl font-semibold text-primary">{course.subtitle}</h2>
-            <div className="mt-7"><Content paragraphs={course.intro} /></div>
+            <Content paragraphs={course.intro} />
           </Reveal>
         </div>
       </section>
