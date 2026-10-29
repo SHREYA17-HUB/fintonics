@@ -18,16 +18,16 @@ export const Route = createFileRoute("/")({
 
 const Z = "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=431,fit=crop/AVLJzj22NyF7JK9Y/";
 
-type Course = { code: string; name?: string; img: string; to?: "/about" | "/aboutfintech" | "/landingpage-copy1" };
+type Course = { code: string; name?: string; img: string; to?: "/about" | "/aboutfintech" | "/landingpage-copy1" | "/acca" | "/cs" | "/ai-and-ml" };
 const courses: Course[] = [
   { code: "CA", name: "Chartered Accountant", img: "institute-of-chartered-accountants-logo-vector.svg-ALpJnX5P3Mh07bOl.png", to: "/about" },
-  { code: "CS", name: "Company Secretary", img: "my-first-design-15-mnl3v1DKXLhqqVLR.png" },
-  { code: "ACCA", img: "my-first-design-9-1-mP4pnXVz5RfVX64E.png" },
+  { code: "CS", name: "Company Secretary", img: "my-first-design-15-mnl3v1DKXLhqqVLR.png", to: "/cs" },
+  { code: "ACCA", img: "my-first-design-9-1-mP4pnXVz5RfVX64E.png", to: "/acca" },
   { code: "CIMA", img: "cima-A1aKw1oNM2FGz28Q.png" },
   { code: "Fintech", img: "my-first-design-11-dOqbylrgJpiL1G00.png", to: "/aboutfintech" },
   { code: "Business Analytics", img: "ba1-m6LvwPlvVzCkDZ99.png" },
   { code: "US CMA", img: "us-cma-dOqbylarwMfR77ej.jpg", to: "/aboutfintech" },
-  { code: "AI & ML", img: "al-ml-AR0Jy2Ngpbupnrke.png", to: "/aboutfintech" },
+  { code: "AI & ML", img: "al-ml-AR0Jy2Ngpbupnrke.png", to: "/ai-and-ml" },
   { code: "CPA", img: "cpa1-d95pKD3ZJLsrP8vB.jpg", to: "/landingpage-copy1" },
 ];
 

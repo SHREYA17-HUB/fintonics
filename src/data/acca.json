@@ -1,0 +1,853 @@
+{
+  "title": "ACCA UK – Association of Chartered Certified Accountants",
+  "subtitle": "Build a Global Career in Accounting, Auditing, Taxation and Finance",
+  "intro": [
+    {
+      "kind": "paragraph",
+      "runs": [
+        {
+          "text": "The ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "ACCA (Association of Chartered Certified Accountants)",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " is a globally recognised professional accountancy qualification originating in the United Kingdom. It equips students and professionals with the knowledge and skills required to succeed in financial accounting, management accounting, auditing, taxation, financial reporting and business management.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "text": "The ACCA (Association of Chartered Certified Accountants) is a globally recognised professional accountancy qualification originating in the United Kingdom. It equips students and professionals with the knowledge and skills required to succeed in financial accounting, management accounting, auditing, taxation, financial reporting and business management."
+    },
+    {
+      "kind": "paragraph",
+      "runs": [
+        {
+          "text": "The ACCA qualification combines technical accounting knowledge with professional ethics, business understanding and practical experience, preparing learners for careers in accounting and finance across a wide range of industries.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "text": "The ACCA qualification combines technical accounting knowledge with professional ethics, business understanding and practical experience, preparing learners for careers in accounting and finance across a wide range of industries."
+    },
+    {
+      "kind": "paragraph",
+      "runs": [
+        {
+          "text": "Whether you are a commerce student, graduate or working professional, ACCA can help you develop the expertise needed to pursue a rewarding career in the global finance industry.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "text": "Whether you are a commerce student, graduate or working professional, ACCA can help you develop the expertise needed to pursue a rewarding career in the global finance industry."
+    }
+  ],
+  "sections": [
+    {
+      "title": "Why Choose ACCA UK?",
+      "content": [
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Global Career Opportunities:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Explore accounting and finance opportunities across international markets and industries.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Global Career Opportunities: Explore accounting and finance opportunities across international markets and industries."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Professional Recognition:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Work towards a respected professional accountancy qualification and ACCA membership.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Professional Recognition: Work towards a respected professional accountancy qualification and ACCA membership."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Comprehensive Curriculum:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Develop knowledge in financial reporting, audit, taxation, performance management and financial strategy.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Comprehensive Curriculum: Develop knowledge in financial reporting, audit, taxation, performance management and financial strategy."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Flexible Study Pathways:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Progress through the qualification at a pace suited to your academic background and preparation.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Flexible Study Pathways: Progress through the qualification at a pace suited to your academic background and preparation."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Career Advancement:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Build a foundation for progression into senior accounting, financial management and leadership roles.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Career Advancement: Build a foundation for progression into senior accounting, financial management and leadership roles."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Practical Experience:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Combine academic learning with relevant workplace experience to develop professional competence.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Practical Experience: Combine academic learning with relevant workplace experience to develop professional competence."
+        }
+      ]
+    },
+    {
+      "title": "ACCA Course Structure",
+      "content": [
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "The ACCA qualification traditionally consists of three examination levels: Applied Knowledge, Applied Skills and Strategic Professional. Students must also complete the applicable ethics module and practical experience requirements to qualify for membership.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "The ACCA qualification traditionally consists of three examination levels: Applied Knowledge, Applied Skills and Strategic Professional. Students must also complete the applicable ethics module and practical experience requirements to qualify for membership."
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "1. Applied Knowledge Level",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "1. Applied Knowledge Level"
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "This level introduces the fundamentals of accounting, management and business.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "This level introduces the fundamentals of accounting, management and business."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Business and Technology (BT):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Understand business structures, organisational management, governance and the role of accounting professionals.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Business and Technology (BT): Understand business structures, organisational management, governance and the role of accounting professionals."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Management Accounting (MA):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Learn costing, budgeting, planning and performance measurement.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Management Accounting (MA): Learn costing, budgeting, planning and performance measurement."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Financial Accounting (FA):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Develop an understanding of accounting principles, bookkeeping and financial statements.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Financial Accounting (FA): Develop an understanding of accounting principles, bookkeeping and financial statements."
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "2. Applied Skills Level",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "2. Applied Skills Level"
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "This level develops practical accounting and financial management expertise.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "This level develops practical accounting and financial management expertise."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Corporate and Business Law (LW):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Understand legal frameworks, business regulations and professional responsibilities.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Corporate and Business Law (LW): Understand legal frameworks, business regulations and professional responsibilities."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Performance Management (PM):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Learn budgeting, performance evaluation, cost analysis and decision-making.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Performance Management (PM): Learn budgeting, performance evaluation, cost analysis and decision-making."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Taxation (TX):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Study the applicable tax system for the chosen ACCA variant.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Taxation (TX): Study the applicable tax system for the chosen ACCA variant."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Financial Reporting (FR):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Understand financial statements and relevant international financial reporting standards.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Financial Reporting (FR): Understand financial statements and relevant international financial reporting standards."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Audit and Assurance (AA):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Learn audit procedures, risk assessment and assurance principles.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Audit and Assurance (AA): Learn audit procedures, risk assessment and assurance principles."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Financial Management (FM):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Develop skills in investment appraisal, financing decisions and working capital management.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Financial Management (FM): Develop skills in investment appraisal, financing decisions and working capital management."
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "3. Strategic Professional Level",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "3. Strategic Professional Level"
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "This level prepares students for senior professional and strategic finance responsibilities.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "This level prepares students for senior professional and strategic finance responsibilities."
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Essential Papers",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Essential Papers"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Strategic Business Leader (SBL):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Develop strategic leadership, governance, risk management and business decision-making skills.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Strategic Business Leader (SBL): Develop strategic leadership, governance, risk management and business decision-making skills."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Strategic Business Reporting (SBR):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Apply advanced financial reporting principles and professional judgment.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Strategic Business Reporting (SBR): Apply advanced financial reporting principles and professional judgment."
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Optional Papers – Choose Two",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Optional Papers – Choose Two"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Advanced Financial Management (AFM):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Focus on corporate finance, investment decisions and financial risk management.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Advanced Financial Management (AFM): Focus on corporate finance, investment decisions and financial risk management."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Advanced Performance Management (APM):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Develop advanced performance measurement and strategic management skills.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Advanced Performance Management (APM): Develop advanced performance measurement and strategic management skills."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Advanced Taxation (ATX):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Study advanced tax planning and related taxation issues.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Advanced Taxation (ATX): Study advanced tax planning and related taxation issues."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Advanced Audit and Assurance (AAA):",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Explore advanced audit, assurance and professional reporting matters.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Advanced Audit and Assurance (AAA): Explore advanced audit, assurance and professional reporting matters."
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "The examination structure above reflects the traditional ACCA qualification pathway. ACCA has announced a redesigned qualification, so the applicable syllabus and transition arrangements should be confirmed for the student's registration and examination session.",
+              "bold": false,
+              "italic": true
+            }
+          ],
+          "text": "The examination structure above reflects the traditional ACCA qualification pathway. ACCA has announced a redesigned qualification, so the applicable syllabus and transition arrangements should be confirmed for the student's registration and examination session."
+        }
+      ]
+    },
+    {
+      "title": "Ethics and Professional Skills",
+      "content": [
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "The Ethics and Professional Skills Module develops professional judgment, ethical decision-making, communication, leadership and commercial awareness.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "The Ethics and Professional Skills Module develops professional judgment, ethical decision-making, communication, leadership and commercial awareness."
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "These skills help students apply their technical knowledge effectively in real-world business environments.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "These skills help students apply their technical knowledge effectively in real-world business environments."
+        }
+      ]
+    },
+    {
+      "title": "Practical Experience Requirement",
+      "content": [
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "To qualify for ACCA membership under the traditional pathway, candidates must complete the relevant examinations, the ethics module and ",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "36 months of relevant practical experience",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": ", along with the required performance objectives and sign-off.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "To qualify for ACCA membership under the traditional pathway, candidates must complete the relevant examinations, the ethics module and 36 months of relevant practical experience, along with the required performance objectives and sign-off."
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "Students can gain relevant experience while studying, helping them connect their academic knowledge with practical workplace responsibilities.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Students can gain relevant experience while studying, helping them connect their academic knowledge with practical workplace responsibilities."
+        }
+      ]
+    },
+    {
+      "title": "Eligibility for ACCA UK",
+      "content": [
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "ACCA offers different entry routes based on educational qualifications and prior learning.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "ACCA offers different entry routes based on educational qualifications and prior learning."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Class 12 students:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Students who meet ACCA's minimum entry requirements may be eligible to register directly.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Class 12 students: Students who meet ACCA's minimum entry requirements may be eligible to register directly."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "B.Com",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " and BBA students:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Commerce and business students can pursue ACCA alongside or after their degree, subject to eligibility.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "B.Com and BBA students: Commerce and business students can pursue ACCA alongside or after their degree, subject to eligibility."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "M.Com and MBA graduates:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Postgraduate qualifications may provide a suitable entry pathway or potential exemptions, depending on the programme.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "M.Com and MBA graduates: Postgraduate qualifications may provide a suitable entry pathway or potential exemptions, depending on the programme."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Accounting and finance graduates:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Eligible candidates may receive exemptions for certain examinations based on their prior qualifications.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Accounting and finance graduates: Eligible candidates may receive exemptions for certain examinations based on their prior qualifications."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Students without the required entry qualifications:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " ACCA Foundations in Accountancy offers an alternative pathway towards the professional qualification.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Students without the required entry qualifications: ACCA Foundations in Accountancy offers an alternative pathway towards the professional qualification."
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "Exemptions and entry levels are determined by ACCA based on the candidate's qualifications and the applicable rules.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Exemptions and entry levels are determined by ACCA based on the candidate's qualifications and the applicable rules."
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities After ACCA",
+      "content": [
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "ACCA students and qualified members can explore opportunities across accounting, audit, taxation, financial management and business advisory services.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "ACCA students and qualified members can explore opportunities across accounting, audit, taxation, financial management and business advisory services."
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "Potential career roles include:",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Potential career roles include:"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Financial Accountant",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Financial Accountant"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Management Accountant",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Management Accountant"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Audit Associate / Audit Manager",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Audit Associate / Audit Manager"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Tax Consultant",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Tax Consultant"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Financial Reporting Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Financial Reporting Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Financial Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Financial Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Internal Auditor",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Internal Auditor"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Finance Manager",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Finance Manager"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Financial Controller",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Financial Controller"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Risk and Compliance Professional",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Risk and Compliance Professional"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Finance Business Partner",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Finance Business Partner"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Corporate Finance Professional",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Corporate Finance Professional"
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "Career progression depends on qualifications, relevant experience, technical skills and employer requirements. Certain regulated activities may require additional local authorisation.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Career progression depends on qualifications, relevant experience, technical skills and employer requirements. Certain regulated activities may require additional local authorisation."
+        }
+      ]
+    }
+  ]
+}
