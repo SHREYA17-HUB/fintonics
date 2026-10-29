@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Document-based course pages share a renderer with structured, static content data so uploaded wording and formatting stay consistent across courses.
