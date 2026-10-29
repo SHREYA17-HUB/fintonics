@@ -1,0 +1,1008 @@
+{
+  "title": "Business Analytics Course",
+  "subtitle": "Transform Data into Decisions. Build Your Future in Analytics.",
+  "intro": [
+    {
+      "kind": "paragraph",
+      "runs": [
+        {
+          "text": "Business Analytics",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " is the process of collecting, analysing and interpreting business data to support better decision-making and improve organisational performance. It combines analytical thinking, statistical techniques and modern technology to help businesses identify trends, understand customer behaviour, optimise operations and make informed strategic decisions.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "text": "Business Analytics is the process of collecting, analysing and interpreting business data to support better decision-making and improve organisational performance. It combines analytical thinking, statistical techniques and modern technology to help businesses identify trends, understand customer behaviour, optimise operations and make informed strategic decisions."
+    },
+    {
+      "kind": "paragraph",
+      "runs": [
+        {
+          "text": "Our Business Analytics course is designed to help students and aspiring professionals develop practical analytical skills using industry-relevant tools such as Microsoft Excel, SQL, Power BI, Tableau and Python.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "text": "Our Business Analytics course is designed to help students and aspiring professionals develop practical analytical skills using industry-relevant tools such as Microsoft Excel, SQL, Power BI, Tableau and Python."
+    },
+    {
+      "kind": "paragraph",
+      "runs": [
+        {
+          "text": "Whether you are a student, graduate or working professional, this course can help you build a strong foundation for a career in data-driven business environments.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "text": "Whether you are a student, graduate or working professional, this course can help you build a strong foundation for a career in data-driven business environments."
+    }
+  ],
+  "sections": [
+    {
+      "title": "Why Choose Business Analytics?",
+      "content": [
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "High-Value Analytical Skills:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Learn to interpret business data and generate meaningful insights.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "High-Value Analytical Skills: Learn to interpret business data and generate meaningful insights."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Industry-Relevant Tools:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Gain practical exposure to Excel, SQL, Power BI, Tableau and Python.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Industry-Relevant Tools: Gain practical exposure to Excel, SQL, Power BI, Tableau and Python."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Practical Learning:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Work on business case studies, data analysis exercises and dashboard projects.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Practical Learning: Work on business case studies, data analysis exercises and dashboard projects."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Career Opportunities:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Explore roles across finance, marketing, sales, operations, consulting and business intelligence.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Career Opportunities: Explore roles across finance, marketing, sales, operations, consulting and business intelligence."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Better Decision-Making:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Understand how data can support business planning, performance measurement and strategy.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Better Decision-Making: Understand how data can support business planning, performance measurement and strategy."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Versatile Career Path:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Apply analytical skills across multiple industries, including banking, retail, technology, healthcare and financial services.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Versatile Career Path: Apply analytical skills across multiple industries, including banking, retail, technology, healthcare and financial services."
+        }
+      ]
+    },
+    {
+      "title": "Business Analytics Course Structure",
+      "content": [
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 1: Introduction to Business Analytics",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 1: Introduction to Business Analytics"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Fundamentals of business analytics and data-driven decision-making",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Fundamentals of business analytics and data-driven decision-making"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Types of analytics: descriptive, diagnostic, predictive and prescriptive",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Types of analytics: descriptive, diagnostic, predictive and prescriptive"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Understanding business problems and key performance indicators (KPIs)",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Understanding business problems and key performance indicators (KPIs)"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data collection, data quality and data interpretation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data collection, data quality and data interpretation"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to business statistics",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to business statistics"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 2: Microsoft Excel for Data Analysis",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 2: Microsoft Excel for Data Analysis"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Excel formulas and functions",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Excel formulas and functions"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data cleaning and data preparation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data cleaning and data preparation"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Sorting, filtering and data validation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Sorting, filtering and data validation"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "PivotTables and ",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "PivotCharts",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "PivotTables and PivotCharts"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Lookup functions and conditional formulas",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Lookup functions and conditional formulas"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Charts, reports and interactive dashboards",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Charts, reports and interactive dashboards"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 3: SQL and Database Management",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 3: SQL and Database Management"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to relational databases",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to relational databases"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Writing SQL queries to retrieve data",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Writing SQL queries to retrieve data"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Filtering, sorting and grouping data",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Filtering, sorting and grouping data"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Aggregate functions and joins",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Aggregate functions and joins"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Subqueries and data manipulation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Subqueries and data manipulation"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Extracting business insights from databases",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Extracting business insights from databases"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 4: Power BI and Business Intelligence",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 4: Power BI and Business Intelligence"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Connecting to multiple data sources",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Connecting to multiple data sources"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data cleaning and transformation using Power Query",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data cleaning and transformation using Power Query"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data modelling and table relationships",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data modelling and table relationships"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to DAX calculations and measures",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to DAX calculations and measures"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Interactive reports and dashboard development",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Interactive reports and dashboard development"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "KPI tracking, data visualisation and report sharing",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "KPI tracking, data visualisation and report sharing"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 5: Tableau and Data Visualisation",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 5: Tableau and Data Visualisation"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Connecting and preparing datasets",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Connecting and preparing datasets"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Creating charts, graphs and visual reports",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Creating charts, graphs and visual reports"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Building interactive dashboards",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Building interactive dashboards"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Applying filters and calculated fields",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Applying filters and calculated fields"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Identifying trends and patterns",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Identifying trends and patterns"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Presenting business insights through data storytelling",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Presenting business insights through data storytelling"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 6: Python for Business Analytics",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 6: Python for Business Analytics"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Python fundamentals and programming basics",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Python fundamentals and programming basics"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data manipulation using Pandas and NumPy",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data manipulation using Pandas and NumPy"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data cleaning and exploratory data analysis",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data cleaning and exploratory data analysis"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Statistical analysis and data visualisation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Statistical analysis and data visualisation"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Working with datasets and identifying trends",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Working with datasets and identifying trends"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to predictive analytics",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to predictive analytics"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 7: Statistics and Predictive Analytics",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 7: Statistics and Predictive Analytics"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Descriptive statistics and probability",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Descriptive statistics and probability"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Correlation and regression analysis",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Correlation and regression analysis"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Hypothesis testing fundamentals",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Hypothesis testing fundamentals"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Forecasting and trend analysis",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Forecasting and trend analysis"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to machine learning concepts",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to machine learning concepts"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Interpreting analytical results for business decisions",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Interpreting analytical results for business decisions"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 8: Practical Projects and Capstone",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 8: Practical Projects and Capstone"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Sales and revenue performance analysis",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Sales and revenue performance analysis"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Customer behaviour and market analysis",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Customer behaviour and market analysis"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Financial performance dashboards",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Financial performance dashboards"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Business KPI reporting",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Business KPI reporting"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data visualisation and presentation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data visualisation and presentation"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "A capstone project based on a practical business problem",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "A capstone project based on a practical business problem"
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "The final syllabus can be customised according to the course duration, student level and tools included in your training programme.",
+              "bold": false,
+              "italic": true
+            }
+          ],
+          "text": "The final syllabus can be customised according to the course duration, student level and tools included in your training programme."
+        }
+      ]
+    },
+    {
+      "title": "Eligibility for Business Analytics",
+      "content": [
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "This course is suitable for:",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "This course is suitable for:"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "B.Com",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", BBA, BCA, B.Sc. and other undergraduate students",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "B.Com, BBA, BCA, B.Sc. and other undergraduate students"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "M.Com, MBA and postgraduate students",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "M.Com, MBA and postgraduate students"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Fresh graduates looking to develop job-ready analytical skills",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Fresh graduates looking to develop job-ready analytical skills"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Finance, accounting, marketing and operations professionals",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Finance, accounting, marketing and operations professionals"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Working professionals looking to upgrade their technical skills",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Working professionals looking to upgrade their technical skills"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Individuals interested in data analysis and business intelligence",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Individuals interested in data analysis and business intelligence"
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "Basic computer knowledge is helpful. Advanced programming experience is not essential for a beginner-level course.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Basic computer knowledge is helpful. Advanced programming experience is not essential for a beginner-level course."
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities After Business Analytics",
+      "content": [
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "After developing the relevant analytical and technical skills, learners can explore career opportunities such as:",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "After developing the relevant analytical and technical skills, learners can explore career opportunities such as:"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Business Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Business Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Business Intelligence Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Business Intelligence Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Financial Data Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Financial Data Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Marketing Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Marketing Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Sales Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Sales Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Operations Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Operations Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Reporting Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Reporting Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "MIS Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "MIS Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Junior Power BI Developer",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Junior Power BI Developer"
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "Career opportunities depend on the learner's technical proficiency, project experience, educational background and employer requirements.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Career opportunities depend on the learner's technical proficiency, project experience, educational background and employer requirements."
+        }
+      ]
+    }
+  ]
+}
