@@ -1,0 +1,1435 @@
+{
+  "title": "Artificial Intelligence (AI) and Machine Learning (ML) Course",
+  "subtitle": "Learn AI. Master Machine Learning. Build the Future.",
+  "intro": [
+    {
+      "kind": "paragraph",
+      "runs": [
+        {
+          "text": "Artificial Intelligence (AI) and Machine Learning (ML) are transforming the way businesses operate, make decisions and solve complex problems. From intelligent chatbots and recommendation systems to predictive analytics and automation, AI-powered technologies are creating new opportunities across industries.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "text": "Artificial Intelligence (AI) and Machine Learning (ML) are transforming the way businesses operate, make decisions and solve complex problems. From intelligent chatbots and recommendation systems to predictive analytics and automation, AI-powered technologies are creating new opportunities across industries."
+    },
+    {
+      "kind": "paragraph",
+      "runs": [
+        {
+          "text": "Our ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "AI and Machine Learning course",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " is designed to help students and aspiring professionals develop practical skills in programming, data analysis, machine learning algorithms, deep learning and Generative AI.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "text": "Our AI and Machine Learning course is designed to help students and aspiring professionals develop practical skills in programming, data analysis, machine learning algorithms, deep learning and Generative AI."
+    },
+    {
+      "kind": "paragraph",
+      "runs": [
+        {
+          "text": "Through hands-on exercises, real-world case studies and industry-relevant projects, learners can develop the technical foundation needed to build intelligent applications and explore career opportunities in the rapidly evolving field of AI.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "text": "Through hands-on exercises, real-world case studies and industry-relevant projects, learners can develop the technical foundation needed to build intelligent applications and explore career opportunities in the rapidly evolving field of AI."
+    }
+  ],
+  "sections": [
+    {
+      "title": "Why Choose AI and Machine Learning?",
+      "content": [
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Future-Focused Skills:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Understand technologies used in modern AI applications and intelligent systems.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Future-Focused Skills: Understand technologies used in modern AI applications and intelligent systems."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Practical Programming:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Learn Python and essential libraries for data analysis and model development.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Practical Programming: Learn Python and essential libraries for data analysis and model development."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Machine Learning Expertise:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Develop an understanding of algorithms that identify patterns and make predictions from data.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Machine Learning Expertise: Develop an understanding of algorithms that identify patterns and make predictions from data."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Generative AI Skills:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Explore large language models, prompt engineering and AI-powered applications.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Generative AI Skills: Explore large language models, prompt engineering and AI-powered applications."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Hands-On Projects:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Apply your knowledge to practical problems using real datasets.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Hands-On Projects: Apply your knowledge to practical problems using real datasets."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Diverse Career Opportunities:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Prepare for entry-level opportunities in data science, AI development, machine learning and analytics, depending on your skills and experience.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Diverse Career Opportunities: Prepare for entry-level opportunities in data science, AI development, machine learning and analytics, depending on your skills and experience."
+        }
+      ]
+    },
+    {
+      "title": "AI and Machine Learning Course Structure",
+      "content": [
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 1: Introduction to Artificial Intelligence",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 1: Introduction to Artificial Intelligence"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Fundamentals of Artificial Intelligence",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Fundamentals of Artificial Intelligence"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Applications of AI across industries",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Applications of AI across industries"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Types of AI systems and intelligent agents",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Types of AI systems and intelligent agents"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "AI problem-solving techniques",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "AI problem-solving techniques"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to machine learning and deep learning",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to machine learning and deep learning"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Responsible AI, privacy, fairness and ethical considerations",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Responsible AI, privacy, fairness and ethical considerations"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 2: Python Programming for AI",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 2: Python Programming for AI"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Python fundamentals and programming logic",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Python fundamentals and programming logic"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Variables, data types, loops and functions",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Variables, data types, loops and functions"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Lists, dictionaries, sets and tuples",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Lists, dictionaries, sets and tuples"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Object-oriented programming fundamentals",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Object-oriented programming fundamentals"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Working with files and datasets",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Working with files and datasets"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to Jupyter Notebook and Google ",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Colab",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to Jupyter Notebook and Google Colab"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 3: Mathematics and Statistics for Machine Learning",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 3: Mathematics and Statistics for Machine Learning"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Descriptive statistics and probability",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Descriptive statistics and probability"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Mean, median, variance and standard deviation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Mean, median, variance and standard deviation"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Linear algebra fundamentals",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Linear algebra fundamentals"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Vectors, matrices and mathematical operations",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Vectors, matrices and mathematical operations"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Correlation and regression concepts",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Correlation and regression concepts"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Understanding the mathematics behind machine learning algorithms",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Understanding the mathematics behind machine learning algorithms"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 4: Data Analysis and Data Preprocessing",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 4: Data Analysis and Data Preprocessing"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data collection and preparation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data collection and preparation"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data cleaning and handling missing values",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data cleaning and handling missing values"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data manipulation using NumPy and Pandas",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data manipulation using NumPy and Pandas"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Exploratory Data Analysis (EDA)",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Exploratory Data Analysis (EDA)"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data visualisation using Matplotlib and Seaborn",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data visualisation using Matplotlib and Seaborn"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Feature engineering and data transformation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Feature engineering and data transformation"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 5: Machine Learning Algorithms",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 5: Machine Learning Algorithms"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to supervised and unsupervised learning",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to supervised and unsupervised learning"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Linear and logistic regression",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Linear and logistic regression"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Decision trees and random forests",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Decision trees and random forests"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Classification algorithms",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Classification algorithms"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "K-Nearest Neighbours (KNN)",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "K-Nearest Neighbours (KNN)"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Support Vector Machines (SVM)",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Support Vector Machines (SVM)"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Clustering techniques such as K-Means",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Clustering techniques such as K-Means"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Model training, testing and performance evaluation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Model training, testing and performance evaluation"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 6: Advanced Machine Learning",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 6: Advanced Machine Learning"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Feature selection and model optimisation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Feature selection and model optimisation"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Cross-validation and hyperparameter tuning",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Cross-validation and hyperparameter tuning"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Overfitting and underfitting",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Overfitting and underfitting"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Ensemble learning techniques",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Ensemble learning techniques"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Recommendation systems",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Recommendation systems"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Time-series forecasting fundamentals",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Time-series forecasting fundamentals"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Model evaluation using appropriate performance metrics",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Model evaluation using appropriate performance metrics"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 7: Deep Learning and Neural Networks",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 7: Deep Learning and Neural Networks"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to artificial neural networks",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to artificial neural networks"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Neural network architecture and activation functions",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Neural network architecture and activation functions"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Forward propagation and backpropagation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Forward propagation and backpropagation"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to TensorFlow and ",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Keras",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to TensorFlow and Keras"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Convolutional Neural Networks (CNNs)",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Convolutional Neural Networks (CNNs)"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Image classification fundamentals",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Image classification fundamentals"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to Recurrent Neural Networks (RNNs) and sequence modelling",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to Recurrent Neural Networks (RNNs) and sequence modelling"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 8: Natural Language Processing (NLP)",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 8: Natural Language Processing (NLP)"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Fundamentals of Natural Language Processing",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Fundamentals of Natural Language Processing"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Text preprocessing and tokenisation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Text preprocessing and tokenisation"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Text classification and sentiment analysis",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Text classification and sentiment analysis"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Text representation and embeddings",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Text representation and embeddings"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to language models",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to language models"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Building basic text-processing applications",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Building basic text-processing applications"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 9: Generative AI and Large Language Models",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 9: Generative AI and Large Language Models"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to Generative AI",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to Generative AI"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Understanding Large Language Models (LLMs)",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Understanding Large Language Models (LLMs)"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Prompt engineering and structured prompting",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Prompt engineering and structured prompting"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Using AI models through APIs",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Using AI models through APIs"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Retrieval-Augmented Generation (RAG) fundamentals",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Retrieval-Augmented Generation (RAG) fundamentals"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Building AI-powered chatbots and document assistants",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Building AI-powered chatbots and document assistants"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to AI agents and workflow automation",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to AI agents and workflow automation"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Responsible use and evaluation of Generative AI applications",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Responsible use and evaluation of Generative AI applications"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 10: AI Deployment and Real-World Applications",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 10: AI Deployment and Real-World Applications"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Saving and loading trained machine learning models",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Saving and loading trained machine learning models"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Building simple applications using ",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "Streamlit",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " or similar tools",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Building simple applications using Streamlit or similar tools"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to APIs and model integration",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to APIs and model integration"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Deploying AI applications to cloud platforms",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Deploying AI applications to cloud platforms"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Introduction to model monitoring and ",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "MLOps",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Introduction to model monitoring and MLOps"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Understanding data privacy, security and responsible deployment",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Understanding data privacy, security and responsible deployment"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Module 11: Hands-On Projects and Capstone",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Module 11: Hands-On Projects and Capstone"
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "Students apply their learning through practical projects such as:",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Students apply their learning through practical projects such as:"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Customer Churn Prediction:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Predict which customers may stop using a service.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Customer Churn Prediction: Predict which customers may stop using a service."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Sales Forecasting:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Analyse historical data to estimate future sales.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Sales Forecasting: Analyse historical data to estimate future sales."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Sentiment Analysis:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Classify customer reviews and feedback.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Sentiment Analysis: Classify customer reviews and feedback."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Image Classification:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Build a model that identifies image categories.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Image Classification: Build a model that identifies image categories."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Recommendation System:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Suggest relevant products or content based on user preferences.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Recommendation System: Suggest relevant products or content based on user preferences."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "AI Chatbot:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Develop a chatbot that answers questions using an AI model.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "AI Chatbot: Develop a chatbot that answers questions using an AI model."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Document Intelligence Assistant:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Create a prototype that retrieves and summarises information from documents.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Document Intelligence Assistant: Create a prototype that retrieves and summarises information from documents."
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "Students can build a project portfolio to demonstrate their skills to prospective employers.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Students can build a project portfolio to demonstrate their skills to prospective employers."
+        }
+      ]
+    },
+    {
+      "title": "Eligibility for AI and Machine Learning",
+      "content": [
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "This course is suitable for:",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "This course is suitable for:"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "BCA, B.Sc. Computer Science and IT students",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "BCA, B.Sc. Computer Science and IT students"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "B.E. and ",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": "B.Tech",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": " students and graduates",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "B.E. and B.Tech students and graduates"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "B.Com",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "text": ", BBA and other graduates interested in technology",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "B.Com, BBA and other graduates interested in technology"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data analysts seeking to develop machine learning skills",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data analysts seeking to develop machine learning skills"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Software developers interested in AI application development",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Software developers interested in AI application development"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Working professionals looking to upgrade their technical capabilities",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Working professionals looking to upgrade their technical capabilities"
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "Basic computer literacy is helpful. Beginners can start with Python fundamentals, while advanced machine learning topics require a stronger understanding of mathematics, statistics and programming.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Basic computer literacy is helpful. Beginners can start with Python fundamentals, while advanced machine learning topics require a stronger understanding of mathematics, statistics and programming."
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities After AI and Machine Learning",
+      "content": [
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "Depending on the learner's technical skills, educational background and project experience, potential career paths include:",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Depending on the learner's technical skills, educational background and project experience, potential career paths include:"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Junior AI Developer",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Junior AI Developer"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Machine Learning Engineer",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Machine Learning Engineer"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Data Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Data Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Junior Data Scientist",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Junior Data Scientist"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "AI Application Developer",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "AI Application Developer"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Natural Language Processing (NLP) Developer",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Natural Language Processing (NLP) Developer"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Computer Vision Engineer",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Computer Vision Engineer"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Generative AI Application Developer",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Generative AI Application Developer"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Business Intelligence Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Business Intelligence Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "AI Solutions Developer",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "AI Solutions Developer"
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "Some specialised positions, particularly machine learning engineering and data science roles, may require strong programming skills, advanced mathematics, relevant experience or higher qualifications.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Some specialised positions, particularly machine learning engineering and data science roles, may require strong programming skills, advanced mathematics, relevant experience or higher qualifications."
+        }
+      ]
+    },
+    {
+      "title": "Who Should Pursue AI and Machine Learning?",
+      "content": [
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "AI and Machine Learning is suitable for individuals who enjoy programming, logical reasoning, mathematics, data analysis and solving complex problems.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "AI and Machine Learning is suitable for individuals who enjoy programming, logical reasoning, mathematics, data analysis and solving complex problems."
+        },
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "It is particularly valuable for students who want to combine software development with intelligent technologies and build applications that learn from data or assist people in making decisions.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "It is particularly valuable for students who want to combine software development with intelligent technologies and build applications that learn from data or assist people in making decisions."
+        }
+      ]
+    }
+  ]
+}
