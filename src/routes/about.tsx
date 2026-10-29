@@ -9,6 +9,8 @@ export const Route = createFileRoute("/about")({
       { property: "og:title", content: "CA Foundation Course — Fintonics" },
       { property: "og:description", content: "Course structure, eligibility, registration and study support for CA Foundation." },
       { property: "og:type", content: "article" },
+      { property: "og:image", content: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=436,fit=crop/AVLJzj22NyF7JK9Y/institute-of-chartered-accountants-logo-vector.svg-ALpJnX5P3Mh07bOl.png" },
+      { name: "twitter:image", content: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=436,fit=crop/AVLJzj22NyF7JK9Y/institute-of-chartered-accountants-logo-vector.svg-ALpJnX5P3Mh07bOl.png" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
   }),
