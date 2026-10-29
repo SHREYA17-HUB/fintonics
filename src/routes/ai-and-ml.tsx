@@ -1,6 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { DocumentCourse } from "@/components/document-course";
 import course from "@/data/ai-and-ml.json";
+import { courseImages } from "@/lib/course-images";
 
 export const Route = createFileRoute("/ai-and-ml")({
   head: () => ({ meta: [
@@ -11,5 +12,5 @@ export const Route = createFileRoute("/ai-and-ml")({
     { property: "og:type", content: "article" },
     { name: "twitter:card", content: "summary_large_image" },
   ] }),
-  component: () => <DocumentCourse course={course} />,
+  component: () => <DocumentCourse course={course} image={courseImages.ai} />,
 });

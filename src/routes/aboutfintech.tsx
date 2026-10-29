@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import hero from "@/assets/hero-fintech.jpg";
+import hero from "@/assets/course-fintech.jpg";
 import { Block, Card, List, PageHero, type Item } from "@/components/site";
 
 export const Route = createFileRoute("/aboutfintech")({

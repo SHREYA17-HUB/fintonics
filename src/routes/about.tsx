@@ -1,5 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { Block, Card, List, PageHero, type Item } from "@/components/site";
+import { courseImages } from "@/lib/course-images";
 
 export const Route = createFileRoute("/about")({
   head: () => ({
@@ -9,8 +10,6 @@ export const Route = createFileRoute("/about")({
       { property: "og:title", content: "CA Foundation Course — Fintonics" },
       { property: "og:description", content: "Course structure, eligibility, registration and study support for CA Foundation." },
       { property: "og:type", content: "article" },
-      { property: "og:image", content: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=436,fit=crop/AVLJzj22NyF7JK9Y/institute-of-chartered-accountants-logo-vector.svg-ALpJnX5P3Mh07bOl.png" },
-      { name: "twitter:image", content: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=436,fit=crop/AVLJzj22NyF7JK9Y/institute-of-chartered-accountants-logo-vector.svg-ALpJnX5P3Mh07bOl.png" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
   }),
@@ -55,7 +54,7 @@ function About() {
       <PageHero
         eyebrow="Embark on Your Journey to Become a Chartered Accountant"
         title={<>About <span className="text-brand">CA Foundation</span></>}
-        image="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=436,fit=crop/AVLJzj22NyF7JK9Y/institute-of-chartered-accountants-logo-vector.svg-ALpJnX5P3Mh07bOl.png"
+        image={courseImages.ca}
       >
         <p>
           The CA Foundation Course is the entry-level examination for the Chartered Accountancy program in India, conducted by the Institute of Chartered Accountants of India (ICAI). This course is designed to build a strong foundation in accounting, business laws, economics, and quantitative aptitude, preparing students for a successful career in the field of accounting and finance.

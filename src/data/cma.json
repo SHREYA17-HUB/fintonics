@@ -1,0 +1,403 @@
+{
+  "title": "US CMA – Certified Management Accountant",
+  "subtitle": "Build Your Career in Management Accounting and Finance",
+  "intro": [
+    {
+      "kind": "paragraph",
+      "runs": [
+        {
+          "text": "The ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "US CMA (Certified Management Accountant)",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " is a globally recognized professional certification offered by the Institute of Management Accountants (IMA), USA. It is designed for individuals who want to build a successful career in management accounting, financial management, corporate finance, and business decision-making.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "text": "The US CMA (Certified Management Accountant) is a globally recognized professional certification offered by the Institute of Management Accountants (IMA), USA. It is designed for individuals who want to build a successful career in management accounting, financial management, corporate finance, and business decision-making."
+    },
+    {
+      "kind": "paragraph",
+      "runs": [
+        {
+          "text": "The US CMA equips students and professionals with the skills required to ",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "analyze",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": " financial data, manage business performance, control costs, prepare budgets, and support strategic business decisions.",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "text": "The US CMA equips students and professionals with the skills required to analyze financial data, manage business performance, control costs, prepare budgets, and support strategic business decisions."
+    }
+  ],
+  "sections": [
+    {
+      "title": "Why Choose US CMA?",
+      "content": [
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Global Recognition:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " A professional certification recognized by employers across various industries worldwide.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Global Recognition: A professional certification recognized by employers across various industries worldwide."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Shorter Course Duration:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Students can prepare for and complete the two examination parts in a relatively short period, depending on their preparation and exam schedules.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Shorter Course Duration: Students can prepare for and complete the two examination parts in a relatively short period, depending on their preparation and exam schedules."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Career Opportunities:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Opens pathways to roles in management accounting, financial planning and analysis, corporate finance, and business management.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Career Opportunities: Opens pathways to roles in management accounting, financial planning and analysis, corporate finance, and business management."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Industry-Relevant Skills:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Develop expertise in budgeting, cost management, financial analysis, risk management, and strategic planning.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Industry-Relevant Skills: Develop expertise in budgeting, cost management, financial analysis, risk management, and strategic planning."
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "International Career Prospects:",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": " Build a strong foundation for finance and accounting opportunities in India and abroad.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "International Career Prospects: Build a strong foundation for finance and accounting opportunities in India and abroad."
+        }
+      ]
+    },
+    {
+      "title": "US CMA Course Structure",
+      "content": [
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "The US CMA examination consists of two parts:",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "The US CMA examination consists of two parts:"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Part 1: Financial Planning, Performance, and Analytics",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Part 1: Financial Planning, Performance, and Analytics"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "External Financial Reporting Decisions",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "External Financial Reporting Decisions"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Planning, Budgeting, and Forecasting",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Planning, Budgeting, and Forecasting"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Performance Management",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Performance Management"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Cost Management",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Cost Management"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Internal Controls",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Internal Controls"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Technology and Analytics",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Technology and Analytics"
+        },
+        {
+          "kind": "heading",
+          "runs": [
+            {
+              "text": "Part 2: Strategic Financial Management",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "text": "Part 2: Strategic Financial Management"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Financial Statement Analysis",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Financial Statement Analysis"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Corporate Finance",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Corporate Finance"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Business Decision Analysis",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Business Decision Analysis"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Enterprise Risk Management",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Enterprise Risk Management"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Capital Investment Decisions",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Capital Investment Decisions"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Professional Ethics",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Professional Ethics"
+        }
+      ]
+    },
+    {
+      "title": "Eligibility",
+      "content": [
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "Students can begin preparing for the US CMA while pursuing their graduation. To obtain the CMA certification, candidates must meet the IMA's applicable education and professional experience requirements and satisfy the examination requirements.",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Students can begin preparing for the US CMA while pursuing their graduation. To obtain the CMA certification, candidates must meet the IMA's applicable education and professional experience requirements and satisfy the examination requirements."
+        }
+      ]
+    },
+    {
+      "title": "Career Opportunities After US CMA",
+      "content": [
+        {
+          "kind": "paragraph",
+          "runs": [
+            {
+              "text": "US CMA professionals can pursue career opportunities such as:",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "US CMA professionals can pursue career opportunities such as:"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Management Accountant",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Management Accountant"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Financial Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Financial Analyst"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Cost Accountant",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Cost Accountant"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "FP&A Analyst (Financial Planning and Analysis)",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "FP&A Analyst (Financial Planning and Analysis)"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Finance Manager",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Finance Manager"
+        },
+        {
+          "kind": "list",
+          "runs": [
+            {
+              "text": "Corporate Finance Analyst",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "text": "Corporate Finance Analyst"
+        }
+      ]
+    }
+  ]
+}

@@ -14,6 +14,9 @@ import { Route as AboutRouteImport } from './routes/about'
 import { Route as AboutfintechRouteImport } from './routes/aboutfintech'
 import { Route as AccaRouteImport } from './routes/acca'
 import { Route as AiAndMlRouteImport } from './routes/ai-and-ml'
+import { Route as BusinessAnalyticsRouteImport } from './routes/business-analytics'
+import { Route as CimaRouteImport } from './routes/cima'
+import { Route as CpaRouteImport } from './routes/cpa'
 import { Route as CsRouteImport } from './routes/cs'
 import { Route as LandingpageCopy1RouteImport } from './routes/landingpage-copy1'
 
@@ -42,6 +45,21 @@ const AiAndMlRoute = AiAndMlRouteImport.update({
   path: '/ai-and-ml',
   getParentRoute: () => rootRouteImport,
 } as any)
+const BusinessAnalyticsRoute = BusinessAnalyticsRouteImport.update({
+  id: '/business-analytics',
+  path: '/business-analytics',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CimaRoute = CimaRouteImport.update({
+  id: '/cima',
+  path: '/cima',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CpaRoute = CpaRouteImport.update({
+  id: '/cpa',
+  path: '/cpa',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const CsRoute = CsRouteImport.update({
   id: '/cs',
   path: '/cs',
@@ -59,6 +77,9 @@ export interface FileRoutesByFullPath {
   '/aboutfintech': typeof AboutfintechRoute
   '/acca': typeof AccaRoute
   '/ai-and-ml': typeof AiAndMlRoute
+  '/business-analytics': typeof BusinessAnalyticsRoute
+  '/cima': typeof CimaRoute
+  '/cpa': typeof CpaRoute
   '/cs': typeof CsRoute
   '/landingpage-copy1': typeof LandingpageCopy1Route
 }
@@ -68,6 +89,9 @@ export interface FileRoutesByTo {
   '/aboutfintech': typeof AboutfintechRoute
   '/acca': typeof AccaRoute
   '/ai-and-ml': typeof AiAndMlRoute
+  '/business-analytics': typeof BusinessAnalyticsRoute
+  '/cima': typeof CimaRoute
+  '/cpa': typeof CpaRoute
   '/cs': typeof CsRoute
   '/landingpage-copy1': typeof LandingpageCopy1Route
 }
@@ -78,6 +102,9 @@ export interface FileRoutesById {
   '/aboutfintech': typeof AboutfintechRoute
   '/acca': typeof AccaRoute
   '/ai-and-ml': typeof AiAndMlRoute
+  '/business-analytics': typeof BusinessAnalyticsRoute
+  '/cima': typeof CimaRoute
+  '/cpa': typeof CpaRoute
   '/cs': typeof CsRoute
   '/landingpage-copy1': typeof LandingpageCopy1Route
 }
@@ -89,6 +116,9 @@ export interface FileRouteTypes {
     | '/aboutfintech'
     | '/acca'
     | '/ai-and-ml'
+    | '/business-analytics'
+    | '/cima'
+    | '/cpa'
     | '/cs'
     | '/landingpage-copy1'
   fileRoutesByTo: FileRoutesByTo
@@ -98,6 +128,9 @@ export interface FileRouteTypes {
     | '/aboutfintech'
     | '/acca'
     | '/ai-and-ml'
+    | '/business-analytics'
+    | '/cima'
+    | '/cpa'
     | '/cs'
     | '/landingpage-copy1'
   id:
@@ -107,6 +140,9 @@ export interface FileRouteTypes {
     | '/aboutfintech'
     | '/acca'
     | '/ai-and-ml'
+    | '/business-analytics'
+    | '/cima'
+    | '/cpa'
     | '/cs'
     | '/landingpage-copy1'
   fileRoutesById: FileRoutesById
@@ -117,6 +153,9 @@ export interface RootRouteChildren {
   AboutfintechRoute: typeof AboutfintechRoute
   AccaRoute: typeof AccaRoute
   AiAndMlRoute: typeof AiAndMlRoute
+  BusinessAnalyticsRoute: typeof BusinessAnalyticsRoute
+  CimaRoute: typeof CimaRoute
+  CpaRoute: typeof CpaRoute
   CsRoute: typeof CsRoute
   LandingpageCopy1Route: typeof LandingpageCopy1Route
 }
@@ -158,6 +197,27 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AiAndMlRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/business-analytics': {
+      id: '/business-analytics'
+      path: '/business-analytics'
+      fullPath: '/business-analytics'
+      preLoaderRoute: typeof BusinessAnalyticsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/cima': {
+      id: '/cima'
+      path: '/cima'
+      fullPath: '/cima'
+      preLoaderRoute: typeof CimaRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/cpa': {
+      id: '/cpa'
+      path: '/cpa'
+      fullPath: '/cpa'
+      preLoaderRoute: typeof CpaRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/cs': {
       id: '/cs'
       path: '/cs'
@@ -181,6 +241,9 @@ const rootRouteChildren: RootRouteChildren = {
   AboutfintechRoute: AboutfintechRoute,
   AccaRoute: AccaRoute,
   AiAndMlRoute: AiAndMlRoute,
+  BusinessAnalyticsRoute: BusinessAnalyticsRoute,
+  CimaRoute: CimaRoute,
+  CpaRoute: CpaRoute,
   CsRoute: CsRoute,
   LandingpageCopy1Route: LandingpageCopy1Route,
 }
