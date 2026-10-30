@@ -1,4 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
+import { CourseGallery } from "@/components/course-gallery";
 import { Block, Card, List, PageHero, type Item } from "@/components/site";
 import { courseImages } from "@/lib/course-images";
 
@@ -60,6 +61,7 @@ function About() {
           The CA Foundation Course is the entry-level examination for the Chartered Accountancy program in India, conducted by the Institute of Chartered Accountants of India (ICAI). This course is designed to build a strong foundation in accounting, business laws, economics, and quantitative aptitude, preparing students for a successful career in the field of accounting and finance.
         </p>
       </PageHero>
+      <CourseGallery course="ca" label="CA Foundation" />
 
       <Block title="Why Choose CA Foundation?">
         <div className="grid gap-4 sm:grid-cols-2">

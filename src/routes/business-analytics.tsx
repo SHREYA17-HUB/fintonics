@@ -12,5 +12,5 @@ export const Route = createFileRoute("/business-analytics")({
     { property: "og:type", content: "article" },
     { name: "twitter:card", content: "summary_large_image" },
   ] }),
-  component: () => <DocumentCourse course={course} image={courseImages.analytics} />,
+  component: () => <DocumentCourse course={course} image={courseImages.analytics} gallery="analytics" />,
 });
