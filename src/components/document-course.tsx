@@ -1,5 +1,7 @@
 import { Block, Reveal } from "@/components/site";
 import { CourseCover } from "@/components/course-cover";
+import { CourseGallery } from "@/components/course-gallery";
+import type { CourseKey } from "@/lib/course-images";
 
 type Run = { text: string; bold: boolean; italic: boolean };
 type Paragraph = { kind: string; text: string; runs: Run[] };
@@ -43,7 +45,7 @@ function Content({ paragraphs }: { paragraphs: Paragraph[] }) {
   );
 }
 
-export function DocumentCourse({ course, image }: { course: CourseDocument; image: string }) {
+export function DocumentCourse({ course, image, gallery }: { course: CourseDocument; image: string; gallery?: CourseKey }) {
   return (
     <>
       <CourseCover title={course.title} subtitle={course.subtitle} image={image} />
@@ -54,6 +56,7 @@ export function DocumentCourse({ course, image }: { course: CourseDocument; imag
           </Reveal>
         </div>
       </section>
+      {gallery && <CourseGallery course={gallery} label={course.title} />}
       {course.sections.map((section, index) => (
         <Block key={section.title} title={section.title} soft={index % 2 === 1}>
           <Content paragraphs={section.content} />

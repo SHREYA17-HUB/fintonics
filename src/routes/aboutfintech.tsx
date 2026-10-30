@@ -1,4 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
+import { CourseGallery } from "@/components/course-gallery";
 import hero from "@/assets/course-fintech.jpg";
 import { Block, Card, List, PageHero, type Item } from "@/components/site";
 
@@ -63,6 +64,7 @@ function Fintech() {
           Financial Technology, or Fintech, is revolutionizing the financial services industry by leveraging cutting-edge technology to enhance financial processes and services. Fintech encompasses a range of applications including digital payments, online banking, blockchain, and cryptocurrency, making financial transactions more efficient, secure, and accessible.
         </p>
       </PageHero>
+      <CourseGallery course="fintech" label="Fintech" />
 
       <Block title="Why Choose Our Fintech Solutions?">
         <div className="grid gap-4 sm:grid-cols-2">

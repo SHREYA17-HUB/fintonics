@@ -12,5 +12,5 @@ export const Route = createFileRoute("/cpa")({
     { property: "og:type", content: "article" },
     { name: "twitter:card", content: "summary_large_image" },
   ] }),
-  component: () => <DocumentCourse course={course} image={courseImages.cpa} />,
+  component: () => <DocumentCourse course={course} image={courseImages.cpa} gallery="cpa" />,
 });
