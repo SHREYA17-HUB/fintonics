@@ -123,3 +123,21 @@
   .card-lift:hover { transform: none; }
   html { scroll-behavior: auto; }
 }
+
+/* Premium motion */
+@layer base {
+  a, button { transition: color .25s, background-color .25s, border-color .25s, transform .25s, box-shadow .25s; }
+  main, #root > * { animation: page-in .6s ease both; }
+}
+@utility kenburns { animation: kenburns 22s ease-in-out infinite alternate; }
+@utility rise-in { animation: rise-in .9s cubic-bezier(.2,.7,.2,1) both; }
+@utility rise-delay { animation-delay: .18s; }
+@utility drift { animation: drift 14s ease-in-out infinite; }
+@utility drift-alt { animation-duration: 18s; animation-direction: reverse; }
+@keyframes kenburns { from { transform: scale(1); } to { transform: scale(1.1) translate(-1.5%, -1%); } }
+@keyframes rise-in { from { opacity: 0; transform: translateY(28px); } to { opacity: 1; transform: none; } }
+@keyframes page-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes drift { 0%,100% { transform: translate(0,0); } 50% { transform: translate(40px,-30px); } }
+@media (prefers-reduced-motion: reduce) {
+  .kenburns, .rise-in, .drift, main { animation: none !important; }
+}

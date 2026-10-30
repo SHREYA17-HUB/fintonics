@@ -1,5 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { Block, Card, List, PageHero } from "@/components/site";
+import { courseImages } from "@/lib/course-images";
 
 export const Route = createFileRoute("/landingpage-copy1")({
   head: () => ({
@@ -18,7 +19,7 @@ export const Route = createFileRoute("/landingpage-copy1")({
 function Cma() {
   return (
     <>
-      <PageHero eyebrow="US CMA Course" title={<>US CMA Course – <span className="text-brand">Certified Management Accountant</span></>}>
+      <PageHero eyebrow="US CMA Course" title={<>US CMA Course – <span className="text-brand">Certified Management Accountant</span></>} image={courseImages.cma}>
         <h2 className="text-xl font-semibold text-navy">Build Your Career in Global Accounting, Finance and Strategic Management</h2>
         <p>
           The <strong className="text-navy">US CMA (Certified Management Accountant)</strong> is a globally recognised professional certification offered by the <strong className="text-navy">Institute of Management Accountants (IMA), USA</strong>. It is designed for students and working professionals who want to develop expertise in management accounting, financial planning, corporate finance, business analysis and strategic decision-making.
