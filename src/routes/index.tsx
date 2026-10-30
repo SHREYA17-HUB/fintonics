@@ -55,6 +55,8 @@ function Index() {
   return (
     <>
       <section className="relative overflow-hidden bg-hero">
+        <div aria-hidden className="drift pointer-events-none absolute -left-24 top-10 h-72 w-72 rounded-full bg-cyan/20 blur-3xl" />
+        <div aria-hidden className="drift drift-alt pointer-events-none absolute -right-20 bottom-0 h-80 w-80 rounded-full bg-primary/15 blur-3xl" />
         <div className="mx-auto grid max-w-7xl items-center gap-12 px-5 py-16 md:py-24 lg:grid-cols-2">
           <Reveal>
             <p className="inline-flex rounded-full border border-primary/20 bg-accent px-4 py-1.5 text-xs font-bold tracking-[0.15em] text-royal">CIN : {CIN}</p>

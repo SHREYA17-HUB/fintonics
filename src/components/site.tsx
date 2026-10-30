@@ -188,8 +188,8 @@ export function PageHero({ eyebrow, title, children, image }: { eyebrow: string;
         </Reveal>
         {image && (
           <Reveal delay={150}>
-            <div className="float-slow rounded-3xl bg-background p-3 shadow-glow">
-              <img src={image} alt="" className="w-full rounded-2xl object-contain" />
+            <div className="float-slow group overflow-hidden rounded-3xl bg-background p-3 shadow-glow">
+              <img src={image} alt="" className="w-full rounded-2xl object-contain transition-transform duration-700 group-hover:scale-[1.04]" />
             </div>
           </Reveal>
         )}
