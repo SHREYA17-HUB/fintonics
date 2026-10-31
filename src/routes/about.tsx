@@ -62,7 +62,6 @@ function About() {
           The CA Foundation Course is the entry-level examination for the Chartered Accountancy program in India, conducted by the Institute of Chartered Accountants of India (ICAI). This course is designed to build a strong foundation in accounting, business laws, economics, and quantitative aptitude, preparing students for a successful career in the field of accounting and finance.
         </p>
       </PageHero>
-      <CourseGallery course="ca" label="CA Foundation" />
       <CourseHighlights course="ca" />
 
       <Block title="Why Choose CA Foundation?">
@@ -73,6 +72,7 @@ function About() {
         </div>
       </Block>
 
+      <CourseGallery course="ca" label="CA Foundation" index={0} />
       <Block title="Course Structure" soft>
         <div className="grid gap-5 md:grid-cols-2">
           {papers.map((p, i) => (
@@ -85,6 +85,7 @@ function About() {
         </div>
       </Block>
 
+      <CourseGallery course="ca" label="CA Foundation" index={1} />
       <Block title="Eligibility Criteria">
         <List items={["Completed 10+2 examination from a recognized board.", "Registered with ICAI for the CA Foundation course."]} />
       </Block>
@@ -98,6 +99,7 @@ function About() {
         />
       </Block>
 
+      <CourseGallery course="ca" label="CA Foundation" index={2} />
       <Block title="Study Material and Support">
         <List items={["Comprehensive study material provided by ICAI.", "Regular updates and notifications on the ICAI website.", "Access to online lectures and practice tests.", "Support from experienced faculty and mentors."]} />
         <div className="mt-10 rounded-3xl bg-brand p-8 text-primary-foreground shadow-glow">

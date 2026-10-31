@@ -1,4 +1,5 @@
 import { Block, Reveal } from "@/components/site";
+import { Fragment } from "react";
 import { CourseCover } from "@/components/course-cover";
 import { CourseGallery } from "@/components/course-gallery";
 import { CourseHighlights } from "@/components/course-highlights";
@@ -57,12 +58,16 @@ export function DocumentCourse({ course, image, gallery }: { course: CourseDocum
           </Reveal>
         </div>
       </section>
-      {gallery && <CourseGallery course={gallery} label={course.title} />}
       {gallery && <CourseHighlights course={gallery} />}
       {course.sections.map((section, index) => (
-        <Block key={section.title} title={section.title} soft={index % 2 === 1}>
+        <Fragment key={section.title}>
+        <Block title={section.title} soft={index % 2 === 1}>
           <Content paragraphs={section.content} />
         </Block>
+        {gallery && [0, Math.floor(course.sections.length / 3), Math.floor(course.sections.length * 2 / 3)].map((position, imageIndex) =>
+          position === index ? <CourseGallery key={imageIndex} course={gallery} label={course.title} index={imageIndex} /> : null
+        )}
+        </Fragment>
       ))}
     </>
   );

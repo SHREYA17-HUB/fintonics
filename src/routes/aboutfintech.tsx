@@ -65,8 +65,8 @@ function Fintech() {
           Financial Technology, or Fintech, is revolutionizing the financial services industry by leveraging cutting-edge technology to enhance financial processes and services. Fintech encompasses a range of applications including digital payments, online banking, blockchain, and cryptocurrency, making financial transactions more efficient, secure, and accessible.
         </p>
       </PageHero>
-      <CourseGallery course="fintech" label="Fintech" />
       <CourseHighlights course="fintech" />
+      <CourseGallery course="fintech" label="Fintech" index={0} />
 
       <Block title="Why Choose Our Fintech Solutions?">
         <div className="grid gap-4 sm:grid-cols-2">
@@ -76,6 +76,7 @@ function Fintech() {
         </div>
       </Block>
 
+      <CourseGallery course="fintech" label="Fintech" index={1} />
       <Block title="Course Structure" soft>
         <h3 className="mb-5 text-xl font-bold text-navy">Core Components of Fintech</h3>
         <div className="grid gap-5 md:grid-cols-2">
@@ -99,6 +100,7 @@ function Fintech() {
         </div>
       </Block>
 
+      <CourseGallery course="fintech" label="Fintech" index={2} />
       <Block title="Eligibility Criteria">
         <List items={["Completed 10+2 examination from a recognized board."]} />
       </Block>
