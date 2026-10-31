@@ -29,7 +29,6 @@ function Cma() {
         <p>The US CMA equips candidates with the financial and analytical skills required to support business performance, improve profitability, manage costs and make informed management decisions.</p>
         <p>Whether you are a commerce graduate, a finance professional or a student pursuing a degree in accounting or business, the US CMA can help you prepare for a career in the global finance and corporate sector.</p>
       </PageHero>
-      <CourseGallery course="cma" label="US CMA" />
       <CourseHighlights course="cma" />
 
       <Block title="Why Choose the US CMA?">
@@ -47,6 +46,7 @@ function Cma() {
         </div>
       </Block>
 
+      <CourseGallery course="cma" label="US CMA" index={0} />
       <Block title="US CMA Course Structure" soft>
         <p className="mb-6 text-muted-foreground">The US CMA certification consists of two examination parts.</p>
         <div className="grid gap-5 md:grid-cols-2">
@@ -79,6 +79,7 @@ function Cma() {
         <p className="mt-6 text-muted-foreground">Candidates may complete their examinations before fulfilling the education and work experience requirements, subject to IMA rules.</p>
       </Block>
 
+      <CourseGallery course="cma" label="US CMA" index={1} />
       <Block title="Examination Pattern" soft>
         <p className="mb-6 text-muted-foreground">Each examination part is four hours long and includes multiple-choice questions and a case-based question section for English-language exams in India from the September/October 2026 testing window onwards.</p>
         <List
@@ -97,6 +98,7 @@ function Cma() {
         <p className="text-lg leading-relaxed text-muted-foreground">The preparation period depends on the candidate's academic background, study schedule and preparation strategy. Many candidates plan to complete both examination parts within approximately 6–12 months, although individual timelines vary.</p>
       </Block>
 
+      <CourseGallery course="cma" label="US CMA" index={2} />
       <Block title="Career Opportunities After US CMA" soft>
         <p className="mb-6 text-muted-foreground">US CMA-qualified professionals may pursue roles such as:</p>
         <div className="flex flex-wrap gap-3">
