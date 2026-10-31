@@ -3,6 +3,6 @@
 - [x] Link the corresponding home course cards and verify each page.
 - [x] Add uploaded Business Analytics, CIMA UK, US CPA, and updated US CMA content.
 - [x] Add distinct subject-specific images to all nine course cards and course pages.
-- [ ] Verify document content, course links, and images on desktop and mobile.
-- [ ] Add unique learning highlights only between each existing course gallery and course information.
-- [ ] Verify all nine course pages on desktop and mobile, preserving surrounding content and images.
+- [x] Verify document content, course links, and images on desktop and mobile.
+- [x] Add unique learning highlights only between each existing course gallery and course information.
+- [x] Verify all nine course pages on desktop and mobile, preserving surrounding content and images.
