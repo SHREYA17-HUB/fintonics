@@ -1,6 +1,7 @@
 import { Block, Reveal } from "@/components/site";
 import { CourseCover } from "@/components/course-cover";
 import { CourseGallery } from "@/components/course-gallery";
+import { CourseHighlights } from "@/components/course-highlights";
 import type { CourseKey } from "@/lib/course-images";
 
 type Run = { text: string; bold: boolean; italic: boolean };
@@ -57,6 +58,7 @@ export function DocumentCourse({ course, image, gallery }: { course: CourseDocum
         </div>
       </section>
       {gallery && <CourseGallery course={gallery} label={course.title} />}
+      {gallery && <CourseHighlights course={gallery} />}
       {course.sections.map((section, index) => (
         <Block key={section.title} title={section.title} soft={index % 2 === 1}>
           <Content paragraphs={section.content} />

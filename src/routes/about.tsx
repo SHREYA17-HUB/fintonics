@@ -1,5 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { CourseGallery } from "@/components/course-gallery";
+import { CourseHighlights } from "@/components/course-highlights";
 import { Block, Card, List, PageHero, type Item } from "@/components/site";
 import { courseImages } from "@/lib/course-images";
 
@@ -62,6 +63,7 @@ function About() {
         </p>
       </PageHero>
       <CourseGallery course="ca" label="CA Foundation" />
+      <CourseHighlights course="ca" />
 
       <Block title="Why Choose CA Foundation?">
         <div className="grid gap-4 sm:grid-cols-2">

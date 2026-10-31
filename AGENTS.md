@@ -11,3 +11,4 @@
 
 - Document-based course pages share a renderer with structured, static content data so uploaded wording and formatting stay consistent across courses.
 - Course cards and page covers use the shared course-image mapping to keep each subject's imagery consistent.
+- Course learning highlights use shared presentation with static subject-specific content, inserted after the existing gallery so original course text, images and section order remain untouched.

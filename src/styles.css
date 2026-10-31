@@ -87,6 +87,7 @@
 }
 
 @utility bg-brand { background-image: var(--gradient-brand); }
+.course-middle h2, .course-middle h3 { letter-spacing: 0; }
 @utility bg-soft-gradient { background-image: var(--gradient-soft); }
 @utility bg-hero { background-image: var(--gradient-hero); }
 @utility text-brand {

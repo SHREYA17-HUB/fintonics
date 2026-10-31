@@ -1,5 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { CourseGallery } from "@/components/course-gallery";
+import { CourseHighlights } from "@/components/course-highlights";
 import hero from "@/assets/course-fintech.jpg";
 import { Block, Card, List, PageHero, type Item } from "@/components/site";
 
@@ -65,6 +66,7 @@ function Fintech() {
         </p>
       </PageHero>
       <CourseGallery course="fintech" label="Fintech" />
+      <CourseHighlights course="fintech" />
 
       <Block title="Why Choose Our Fintech Solutions?">
         <div className="grid gap-4 sm:grid-cols-2">
