@@ -1,5 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { CourseGallery } from "@/components/course-gallery";
+import { CourseHighlights } from "@/components/course-highlights";
 import { Block, Card, List, PageHero } from "@/components/site";
 import { courseImages } from "@/lib/course-images";
 
@@ -29,6 +30,7 @@ function Cma() {
         <p>Whether you are a commerce graduate, a finance professional or a student pursuing a degree in accounting or business, the US CMA can help you prepare for a career in the global finance and corporate sector.</p>
       </PageHero>
       <CourseGallery course="cma" label="US CMA" />
+      <CourseHighlights course="cma" />
 
       <Block title="Why Choose the US CMA?">
         <div className="grid gap-4 sm:grid-cols-2">
