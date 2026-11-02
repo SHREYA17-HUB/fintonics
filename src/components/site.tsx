@@ -1,5 +1,6 @@
 import { Link } from "@tanstack/react-router";
 import { useEffect, useRef, useState, type ReactNode } from "react";
+import { Facebook, Instagram, Twitter, Youtube } from "lucide-react";
 import logo from "@/assets/fintonics-logo.jpeg.asset.json";
 
 export const CIN = "U85500KA2024PTC188634";
@@ -84,10 +85,10 @@ export function Header() {
 }
 
 const socials = [
-  { href: "https://www.facebook.com/profile.php?id=61559135084335", label: "Facebook" },
-  { href: "https://www.instagram.com/fintonicsai/", label: "Instagram" },
-  { href: "https://twitter.com/fintonics/status/1789197551511486530", label: "Twitter" },
-  { href: "https://www.youtube.com/@Fintonics", label: "Youtube" },
+  { href: "https://www.facebook.com/profile.php?id=61559135084335", label: "Facebook", Icon: Facebook },
+  { href: "https://www.instagram.com/fintonicsai/", label: "Instagram", Icon: Instagram },
+  { href: "https://twitter.com/fintonics/status/1789197551511486530", label: "Twitter", Icon: Twitter },
+  { href: "https://www.youtube.com/@Fintonics", label: "Youtube", Icon: Youtube },
 ];
 
 export function Footer() {
@@ -98,10 +99,18 @@ export function Footer() {
       <div className="mx-auto grid max-w-7xl gap-10 px-5 py-16 md:grid-cols-2 lg:grid-cols-4">
         <div>
           <h4 className="text-lg font-semibold">Connect</h4>
-          <div className="mt-4 flex flex-wrap gap-2">
-            {socials.map((s) => (
-              <a key={s.label} href={s.href} target="_blank" rel="noreferrer" aria-label={`Go to ${s.label} page`} className="rounded-full border border-primary-foreground/20 px-3 py-1.5 text-sm transition-colors hover:border-cyan hover:text-cyan">
-                {s.label}
+          <div className="mt-4 flex flex-wrap gap-3">
+            {socials.map(({ href, label, Icon }) => (
+              <a
+                key={label}
+                href={href}
+                target="_blank"
+                rel="noreferrer"
+                aria-label={`Go to ${label} page`}
+                title={label}
+                className="grid h-11 w-11 place-items-center rounded-full border border-primary-foreground/20 text-primary-foreground/90 transition-colors hover:border-cyan hover:bg-primary-foreground/10 hover:text-cyan"
+              >
+                <Icon size={19} strokeWidth={1.8} aria-hidden="true" />
               </a>
             ))}
           </div>
