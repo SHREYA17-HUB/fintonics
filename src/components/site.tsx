@@ -85,7 +85,7 @@ export function Header() {
 
 const socials = [
   { href: "https://www.facebook.com/profile.php?id=61559135084335", label: "Facebook" },
-  { href: "https://www.instagram.com/", label: "Instagram" },
+  { href: "https://www.instagram.com/fintonicsai/", label: "Instagram" },
   { href: "https://twitter.com/fintonics/status/1789197551511486530", label: "Twitter" },
   { href: "https://www.youtube.com/@Fintonics", label: "Youtube" },
 ];
