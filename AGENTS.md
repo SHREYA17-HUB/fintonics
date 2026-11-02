@@ -10,5 +10,6 @@
 <!-- LOVABLE:END -->
 
 - Document-based course pages share a renderer with structured, static content data so uploaded wording and formatting stay consistent across courses.
+- Standalone PHP exports use server-rendered page templates and shared includes outside the running app; this preserves the existing site while supporting separate PHP hosting.
 - Course cards and page covers use the shared course-image mapping to keep each subject's imagery consistent.
 - Course learning highlights use shared presentation with static subject-specific content; existing course images render individually between content sections while original text and content-section order remain untouched.
