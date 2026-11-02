@@ -148,8 +148,19 @@ export function Footer() {
         </div>
       </div>
       <div className="border-t border-primary-foreground/10">
-        <p className="mx-auto max-w-7xl px-5 py-6 text-center text-sm font-semibold text-primary-foreground/80">
+        <p className="mx-auto max-w-7xl px-5 pt-6 pb-3 text-center text-sm font-semibold text-primary-foreground/80">
           AGM Meeting and Annual Filling done for 2025. Next AGM Meeting is on Sept 2026.
+        </p>
+        <p className="mx-auto max-w-7xl px-5 pb-6 text-center text-sm text-primary-foreground/70">
+          Copyright © 2026, All Rights Reserved, Made with <span aria-hidden="true">❤️</span> by{" "}
+          <a
+            href="https://webhostingbaba.com/"
+            target="_blank"
+            rel="noreferrer"
+            className="font-semibold text-cyan underline-offset-4 hover:underline"
+          >
+            Hosting Baba
+          </a>
         </p>
       </div>
     </footer>
