@@ -1,5 +1,5 @@
 # Course content additions
-- [ ] Create a complete standalone PHP/MySQL project without changing the current website.
+- [ ] Create a complete standalone HTML/CSS/vanilla-JavaScript/PHP/MySQL project matching the uploaded technology-conversion brief without changing the current website.
 - [ ] Verify all exported pages, appearance, navigation, and secure form processing; package source with SQL and deployment instructions.
 - [x] Add all uploaded ACCA UK, CS India, and AI & ML content to their respective pages.
 - [x] Link the corresponding home course cards and verify each page.
